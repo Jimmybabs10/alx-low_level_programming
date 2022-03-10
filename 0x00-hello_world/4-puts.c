@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- *displays a string using puts function
+ *main - displays a string using puts function
+ *
+ *return: Always  (Success)
  */
 int main(void)
 {
