@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Entry
+ * main - Entry prints a set of string
  *
  * Description: prints a set of string
  *
- * return: always 1 (success)
+ * Return: always 1 (success)
  */
 int main(void)
 {
