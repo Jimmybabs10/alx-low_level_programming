@@ -12,8 +12,7 @@ char a;
 char z;
 
 a = 'a';
-z = 'z';
-while (a <= z)
+while (a <= 'z')
 putchar(a);
 ++a;
 putchar('\n');
