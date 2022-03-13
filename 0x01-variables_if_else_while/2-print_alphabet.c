@@ -11,7 +11,7 @@ int main(void)
 char a;
 
 a = 'a';
-do{ 
+do {
 putchar(a);
 a++;
 } while (a <= 'z');
