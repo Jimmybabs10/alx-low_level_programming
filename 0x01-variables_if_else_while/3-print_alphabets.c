@@ -22,7 +22,7 @@ a++;
 while (A <= 'Z')
 {
 putchar(A);
-A = A++;
+A++;
 }
 putchar('\n');
 return (0);
