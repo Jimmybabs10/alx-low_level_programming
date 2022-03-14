@@ -14,6 +14,7 @@ int hex = '0';
 while (hex <= 'f')
 {
 putchar(hex);
+hex++;
 }
 putchar('\n');
 return (0);
