@@ -15,6 +15,10 @@ while (a <= 'z')
 {
 putchar(a);
 a++;
+if (a == 'e')
+continue;
+if (a == 'q')
+continue;
 }
 putchar('\n');
 return (0);
