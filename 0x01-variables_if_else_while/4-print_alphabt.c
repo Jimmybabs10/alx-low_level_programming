@@ -13,12 +13,12 @@ int a = 'a';
 
 while (a <= 'z')
 {
+if (a == e)
+continue;
+if (a == q)
+continue;
 putchar(a);
 a++;
-if (a == 'e')
-continue;
-if (a == 'q')
-continue;
 }
 putchar('\n');
 return (0);
