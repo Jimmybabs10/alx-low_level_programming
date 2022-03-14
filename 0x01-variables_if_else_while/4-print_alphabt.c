@@ -13,9 +13,7 @@ int a = 'a';
 
 while (a <= 'z')
 {
-if (a == e)
-continue;
-if (a == q)
+if (a == 'e' || a == 'q')
 continue;
 putchar(a);
 a++;
