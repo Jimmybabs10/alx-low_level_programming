@@ -19,9 +19,9 @@ while (num <= 9)
 while (alph <= 'z')
 {
 _putchar(alph);
-c++;
+alph++;
 }
-c++;
+num++;
 }
 _putchar('\n');
 }
