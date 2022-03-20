@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- *_islower - checks for lowercase
+ *_isalpha - checks for lowercase
  *
  *@c: parameter to pass for letters
  *
@@ -12,12 +12,12 @@
 
 int _isalpha(int c)
 {
-        if (isalpha(c))
-        {
-                return (1);
-        }
-        else
-        {
-                return (0);
-        }
+if (isalpha(c))
+{
+return (1);
+}
+else
+{
+return (0);
+}
 }
