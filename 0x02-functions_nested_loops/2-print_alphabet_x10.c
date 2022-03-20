@@ -8,14 +8,14 @@
  */
 
 void print_alphabet_x10(void)
-char c = a;
+char c = 'a';
 
 {
 while (c <= 'j')
 {
 while (c <= 'z')
 {
-_putchat(c);
+_putchar(c);
 c++;
 }
 c++;
