@@ -4,7 +4,7 @@
 /**
  *_islower - checks for lowercase
  *
- *c: is lower
+ *@c: parameter to pass for lower case
  *
  *Return: 1 if it's lower and 0 if it's not lowr
  *
