@@ -23,6 +23,6 @@ _putchar(alph);
 alph++;
 }
 num++;
-}
 _putchar('\n');
+}
 }
