@@ -18,7 +18,7 @@ while (num <= 9)
 {
 while (alph <= 'z')
 {
-_putchar(c);
+_putchar(alph);
 c++;
 }
 c++;
