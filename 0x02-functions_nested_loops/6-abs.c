@@ -20,4 +20,5 @@ int _abs(int r)
 	{
 		r = 1 * r;
 	}
+	return (r);
 }
