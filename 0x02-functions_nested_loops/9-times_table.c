@@ -26,8 +26,8 @@ void times_table(void)
 			else
 			{
 			printf("%d, ", c);
-			b++;
 			}
+			b++;
 		}
 		c = a * b;
 		printf("%d\n", c);
