@@ -2,13 +2,13 @@
 
 /**
  *print_numbers - prints numbers from 0 to 9
- * parameter to be printed
+ *@c: parameter to be printed
  *Return: c
  */
 
-void print_numbers(void)
+void print_numbers(char c)
 {
-	char c = '0';
+	c = '0';
 
 	while (c <= '9')
 	{
@@ -16,5 +16,4 @@ void print_numbers(void)
 		c++;
 	}
 	_putchar('\n');
-	return (c);
 }
