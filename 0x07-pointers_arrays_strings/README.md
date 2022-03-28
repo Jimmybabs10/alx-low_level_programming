@@ -1,0 +1,1 @@
+This are set of tasks on even more pointer, array and strings for ALX programme
