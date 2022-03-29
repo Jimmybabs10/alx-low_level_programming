@@ -6,9 +6,9 @@
  *Return: c
  */
 
-void print_numbers(char c)
+void print_numbers(void)
 {
-	c = '0';
+	char c = '0';
 
 	while (c <= '9')
 	{
