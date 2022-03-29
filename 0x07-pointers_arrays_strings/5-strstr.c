@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- *@haystack: string which to check for needle
+ *_strstr - locates a substring
+ *@haystack: string in which to check for needle
  *@needle: substring to find in haystack
  *Return: pointer to beginning of needle in haystack or NULL
  */
