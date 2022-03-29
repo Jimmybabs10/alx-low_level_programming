@@ -16,4 +16,5 @@ void print_numbers(char c)
 		c++;
 	}
 	_putchar('\n');
+	return (c);
 }
